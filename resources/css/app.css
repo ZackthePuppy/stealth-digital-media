@@ -20,3 +20,13 @@ input:invalid, textarea:invalid, select:invalid {
 [x-cloak] {
     display: none;
 }
+
+.font-open-sans {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.font-roboto {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+}
